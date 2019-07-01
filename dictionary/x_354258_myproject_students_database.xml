@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Students Database" max_length="40" name="x_354258_myproject_students_database" type="collection">
+        <element label="Phone Number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" mandatory="true" max_length="125" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Branch" max_length="125" name="u_branch" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="IT" sequence="1" value="it"/>
+                <element inactive_on_update="false" label="ECE" sequence="2" value="ece"/>
+                <element inactive_on_update="false" label="CIVIL" sequence="3" value="civil"/>
+                <element inactive_on_update="false" label="MECH" sequence="4" value="mech"/>
+                <element inactive_on_update="false" label="EIE" sequence="5" value="eie"/>
+                <element inactive_on_update="false" label="EEE" sequence="6" value="eee"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Female" sequence="0" value="female"/>
+                <element inactive_on_update="false" label="Male" sequence="1" value="male"/>
+                <element inactive_on_update="false" label="Other" sequence="2" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Father Name" mandatory="true" max_length="125" name="u_father_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="125" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Middle Name" max_length="125" name="u_middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Roll No" mandatory="true" max_length="125" name="u_roll_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="125" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mail" mandatory="true" max_length="125" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Year" mandatory="true" max_length="125" name="u_year" type="string"/>
+    </element>
+</database>

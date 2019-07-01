@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_354258_myproject_students_database" label="AutomateForm" max_length="40" name="x_354258_myproject_automateform" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Receipt No" max_length="40" name="number" read_only="true" type="string"/>
+        <element display="true" label="Student Id" max_length="32" name="student_id" reference="x_354258_myproject_students_database" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="awaiting for approval" label="State" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting for approval" sequence="0" value="awaiting for approval"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Denied" sequence="2" value="denied"/>
+            </choice>
+        </element>
+        <element label="Student Photo" max_length="40" name="u_file_attachment_2" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="D.O.B" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request for" mandatory="true" max_length="40" name="u_request" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Student ID Card" sequence="0" value="student id card"/>
+                <element inactive_on_update="false" label="Bus Pass" sequence="1" value="bus pass"/>
+                <element inactive_on_update="false" label="Library Card" sequence="2" value="library card"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Boarding Point" max_length="125" name="u_string_5" type="string"/>
+        <index name="index">
+            <element name="student_id"/>
+        </index>
+    </element>
+</database>

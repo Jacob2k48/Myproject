@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>student_id</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>FormChange</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+
+    var gr = g_form.getReference('student_id',set);
+	function set(gr)
+	{
+        g_form.setValue('u_first_name', gr.u_first_name);
+        g_form.setValue('u_middle_name',gr.u_middle_name);
+		g_form.setValue('u_string_4',gr.u_string_4);
+		g_form.setValue('u_choice_6',gr.u_choice_6);
+		g_form.setValue('u_branch',gr.u_branch);
+		g_form.setValue('u_father_name',gr.u_father_name);
+		g_form.setValue('u_year',gr.u_year);
+		g_form.setValue('u_address',gr.u_address);
+		g_form.setValue('u_string_6',gr.u_string_6);
+		g_form.setValue('phone_number',gr.phone_number);
+		
+	}
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-01 05:07:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fc53c1bedb16b3005b72f26b68961926</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>FormChange</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyProject" source="x_354258_myproject">e4e038fedbd2b3005b72f26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyProject">e4e038fedbd2b3005b72f26b689619a7</sys_scope>
+        <sys_update_name>sys_script_client_fc53c1bedb16b3005b72f26b68961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-01 05:14:26</sys_updated_on>
+        <table>x_354258_myproject_automateform</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
