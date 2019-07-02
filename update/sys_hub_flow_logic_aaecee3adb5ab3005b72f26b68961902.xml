@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">eeecee3adb5ab3005b72f26b68961900</block>
+        <comment/>
+        <connected_to>b1992ba9-8ac7-499a-8cde-31bf33f6f400</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="MyProjectFLow">0afa2af6db5ab3005b72f26b689619d2</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-01 12:47:21</sys_created_on>
+        <sys_id>aaecee3adb5ab3005b72f26b68961902</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MyProject" source="x_354258_myproject">e4e038fedbd2b3005b72f26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyProject">e4e038fedbd2b3005b72f26b689619a7</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_aaecee3adb5ab3005b72f26b68961902</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-01 14:12:19</sys_updated_on>
+        <ui_id>d6eb1791-d1a9-428c-8eb0-2fd066eee3aa</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=aaecee3adb5ab3005b72f26b68961902"/>
+</record_update>

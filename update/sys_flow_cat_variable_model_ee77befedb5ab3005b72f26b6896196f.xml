@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>2a77befedb5ab3005b72f26b6896196f</id>
+        <name>MyProjectFLow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-01 13:33:30</sys_created_on>
+        <sys_id>ee77befedb5ab3005b72f26b6896196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyProjectFLow</sys_name>
+        <sys_package display_value="MyProject" source="x_354258_myproject">e4e038fedbd2b3005b72f26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyProject">e4e038fedbd2b3005b72f26b689619a7</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_ee77befedb5ab3005b72f26b6896196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-01 13:33:30</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

@@ -5,14 +5,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-01 04:17:28</sys_created_on>
         <sys_id>75e7b876db16b3005b72f26b68961901</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>16B81A0502</sys_name>
         <sys_package display_value="MyProject" source="x_354258_myproject">e4e038fedbd2b3005b72f26b689619a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="MyProject">e4e038fedbd2b3005b72f26b689619a7</sys_scope>
         <sys_update_name>x_354258_myproject_students_database_75e7b876db16b3005b72f26b68961901</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-01 04:46:21</sys_updated_on>
+        <sys_updated_on>2019-07-01 10:32:22</sys_updated_on>
         <u_address>35,ECIL,Hyderabad</u_address>
         <u_branch>mech</u_branch>
         <u_choice_6>female</u_choice_6>
@@ -21,7 +21,7 @@
         <u_middle_name/>
         <u_roll_no>16B81A0502</u_roll_no>
         <u_string_4>y</u_string_4>
-        <u_string_6>madhu23@gmail.com</u_string_6>
+        <u_string_6>madhurima0725@gmail.com </u_string_6>
         <u_year>III</u_year>
     </x_354258_myproject_students_database>
 </record_update>

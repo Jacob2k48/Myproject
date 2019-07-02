@@ -4,27 +4,13 @@
             <element>u_address</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 04:27:44</sys_created_on>
-            <sys_id>049ab8f6db16b3005b72f26b6896198f</sys_id>
+            <sys_created_on>2019-07-01 07:04:59</sys_created_on>
+            <sys_id>2f8e55f6db96b3005b72f26b689619e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_354258_myproject_students_database" sys_domain="global" view="Default view">301a74f6db16b3005b72f26b689619c5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 04:27:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_address</element>
-            <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:21:22</sys_created_on>
-            <sys_id>2c9459fadb56b3005b72f26b68961967</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_354258_myproject_students_database" sys_domain="global" view="Default view">301a74f6db16b3005b72f26b689619c5</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:21:22</sys_updated_on>
+            <sys_updated_on>2019-07-01 07:04:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,27 +18,13 @@
             <element>u_string_6</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 04:27:44</sys_created_on>
-            <sys_id>849ab8f6db16b3005b72f26b6896198f</sys_id>
+            <sys_created_on>2019-07-01 07:04:59</sys_created_on>
+            <sys_id>af8e55f6db96b3005b72f26b689619e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_354258_myproject_students_database" sys_domain="global" view="Default view">301a74f6db16b3005b72f26b689619c5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 04:27:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_6</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:21:22</sys_created_on>
-            <sys_id>ac9459fadb56b3005b72f26b68961967</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_354258_myproject_students_database" sys_domain="global" view="Default view">301a74f6db16b3005b72f26b689619c5</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:21:22</sys_updated_on>
+            <sys_updated_on>2019-07-01 07:04:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,27 +32,13 @@
             <element>phone_number</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 04:27:44</sys_created_on>
-            <sys_id>089ab8f6db16b3005b72f26b6896198f</sys_id>
+            <sys_created_on>2019-07-01 07:04:59</sys_created_on>
+            <sys_id>238e55f6db96b3005b72f26b689619e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_354258_myproject_students_database" sys_domain="global" view="Default view">301a74f6db16b3005b72f26b689619c5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 04:27:44</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>phone_number</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-07-01 06:21:22</sys_created_on>
-            <sys_id>209459fadb56b3005b72f26b68961968</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Personal Details" display_value="Personal Details" name="x_354258_myproject_students_database" sys_domain="global" view="Default view">301a74f6db16b3005b72f26b689619c5</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-07-01 06:21:22</sys_updated_on>
+            <sys_updated_on>2019-07-01 07:04:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>myprojectflow</internal_name>
+        <label_cache>[{"name":"0f626d36-b4e5-4f2e-83af-df247f81962a.email","label":"3.2➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.u_string_6","label":"Trigger➛AutomateForm Record➛Mail","reference":"","reference_display":"Mail","type":"string","base_type":"string","parent_table_name":"x_354258_myproject_automateform","column_name":"u_string_6"},{"name":"ff21c0a6-8fdb-4ee7-b72e-1528a73229a9.email","label":"2.2➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current","label":"Trigger➛AutomateForm Record","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"reference","base_type":"reference"},{"name":"Created_1.current.student_id.u_roll_no","label":"Trigger➛AutomateForm Record➛Student Id➛Roll No","reference":"","reference_display":"Roll No","type":"string","base_type":"string","parent_table_name":"x_354258_myproject_students_database","column_name":"u_roll_no"},{"name":"Created_1.current.student_id","label":"Trigger➛AutomateForm Record➛Student Id","reference":"x_354258_myproject_students_database","reference_display":"Students Database","type":"reference","base_type":"reference","parent_table_name":"x_354258_myproject_automateform","column_name":"student_id"},{"name":"85d2c2c4-ffaa-4ce9-9a87-bff9a4620607.table_name","label":"3.1➛AutomateForm Table","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"table_name","base_type":"table_name"},{"name":"85d2c2c4-ffaa-4ce9-9a87-bff9a4620607.record","label":"3.1➛AutomateForm Record","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"reference","base_type":"reference"},{"name":"d14ce7c2-0933-4ce4-8a97-9dd73f816631.table_name","label":"2.1➛AutomateForm Table","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"table_name","base_type":"table_name"},{"name":"d14ce7c2-0933-4ce4-8a97-9dd73f816631.record","label":"2.1➛AutomateForm Record","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"reference","base_type":"reference"},{"name":"Created_1.current.u_choice_1","label":"Trigger➛AutomateForm Record➛State","reference":"","reference_display":"State","type":"choice","base_type":"choice","parent_table_name":"x_354258_myproject_automateform","column_name":"u_choice_1"},{"name":"3e3362b1-547d-4b64-9d4e-c0b76cdd8604.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"3e3362b1-547d-4b64-9d4e-c0b76cdd8604.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"bfac8a6f-a24c-473d-bf52-222f4a861eb0.table_name","label":"2.1➛AutomateForm Table","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"table_name","base_type":"table_name"},{"name":"bfac8a6f-a24c-473d-bf52-222f4a861eb0.record","label":"2.1➛AutomateForm Record","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"reference","base_type":"reference"},{"name":"{{static.46d44a23a9fe19810012d100cca80666}}","label":"Beth Anglin","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"Created_1.current","label":"Trigger➛AutomateForm Record","reference":"x_354258_myproject_automateform","reference_display":"AutomateForm","type":"reference","base_type":"reference"},{"name":"858a49bc-d624-49cd-8c68-0e0ca5777467.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"}]</label_cache>
+        <latest_snapshot>b2508bf6db9ab3005b72f26b689619ff</latest_snapshot>
+        <master_snapshot>3afc227adb5ab3005b72f26b68961940</master_snapshot>
+        <name>MyProjectFLow</name>
+        <outputs/>
+        <remote_trigger_id>1ffc227adb5ab3005b72f26b689619a7</remote_trigger_id>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-01 12:38:51</sys_created_on>
+        <sys_id>0afa2af6db5ab3005b72f26b689619d2</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>MyProjectFLow</sys_name>
+        <sys_package display_value="MyProject" source="x_354258_myproject">e4e038fedbd2b3005b72f26b689619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyProject">e4e038fedbd2b3005b72f26b689619a7</sys_scope>
+        <sys_update_name>sys_hub_flow_0afa2af6db5ab3005b72f26b689619d2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-01 14:12:18</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=0afa2af6db5ab3005b72f26b689619d2"/>
+    <sys_variable_value action="delete_multiple" query="document_key=0afa2af6db5ab3005b72f26b689619d2"/>
+</record_update>

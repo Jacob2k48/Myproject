@@ -5,23 +5,23 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-01 04:46:09</sys_created_on>
         <sys_id>af6eb47adb16b3005b72f26b68961923</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>16B81A0510</sys_name>
         <sys_package display_value="MyProject" source="x_354258_myproject">e4e038fedbd2b3005b72f26b689619a7</sys_package>
         <sys_policy/>
         <sys_scope display_value="MyProject">e4e038fedbd2b3005b72f26b689619a7</sys_scope>
         <sys_update_name>x_354258_myproject_students_database_af6eb47adb16b3005b72f26b68961923</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-01 04:46:09</sys_updated_on>
+        <sys_updated_on>2019-07-01 11:00:48</sys_updated_on>
         <u_address>67,habsiguda,hyderabad.</u_address>
         <u_branch>eee</u_branch>
-        <u_choice_6>male</u_choice_6>
+        <u_choice_6>female</u_choice_6>
         <u_father_name>Harsha</u_father_name>
-        <u_first_name>banda</u_first_name>
-        <u_middle_name>ram</u_middle_name>
+        <u_first_name>samhitha</u_first_name>
+        <u_middle_name>reddy</u_middle_name>
         <u_roll_no>16B81A0510</u_roll_no>
-        <u_string_4>babu</u_string_4>
-        <u_string_6>ram67@gmail.com</u_string_6>
+        <u_string_4>malyala</u_string_4>
+        <u_string_6>Malyala.samhitha@gmail.com</u_string_6>
         <u_year>IV</u_year>
     </x_354258_myproject_students_database>
 </record_update>
